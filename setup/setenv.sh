@@ -18,8 +18,8 @@
 ##   $api_domain gets used in conjunction with $org and $env to construct
 ##   the base URL to your APIs: https://$org-$env.$api_domain/<api_resource>
 
-org="Enter the the organization name associated with your account on enterprise.apigee.com"
-username="Enter the email address associated with your account on enterprise.apigee.com"
+org="proto_999"
+username="sumit.sk.kumar@accenture.com"
 url="https://api.enterprise.apigee.com"
 env="test"
 api_domain="apigee.net"
